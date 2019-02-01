@@ -1,9 +1,9 @@
 '''
-This script is meant to help build up the data for the drinks database.  I lack
-the means to do sufficient parsing of the html, currently. It will be much quicker to
-operate on local data so I'm just going to be downloading the raw html and
-creating manifests of them.
+This script is meant to help build up the data for the drinks database. It will
+download all links in the main page (not jpgs) as html and create a map of page
+title to html, and a map of page title to url.
 '''
+
 import requests
 import re
 import os
