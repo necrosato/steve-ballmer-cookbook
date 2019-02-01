@@ -7,9 +7,10 @@ import json
 import sys
 
 def main():
-    database_list = json.load(open("./json/database.json", "r"))
+    database = json.load(open("./json/database.json", "r"))
+    recipe_list = database["recipes"]
     query_ingredients = sys.argv[1:]
-    for entry in database_list:
+    for entry in recipe_list:
         match = True
         for ingredient in query_ingredients:
             if ingredient not in entry["ingredients"]:
