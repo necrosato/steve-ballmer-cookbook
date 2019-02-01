@@ -25,7 +25,7 @@ def main():
         print("Scraping {} (link number {})".format(url, i));
         link_request = requests.get(url)
         link_soup = bs(link_request.text, 'html.parser')
-        title = link_soup.find("title").text
+        title = link_soup.find("title").text.replace(" - Wikipedia", "")
         html_filename = "./data/html/{:04d}.html".format(i)
         html = link_soup.prettify()
 

@@ -1,0 +1,1514 @@
+[
+    {
+        "id": 0,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Agent Orange (cocktail)"
+    },
+    {
+        "id": 1,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Carrot Cake (cocktail)"
+    },
+    {
+        "id": 2,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Revelation (cocktail)"
+    },
+    {
+        "id": 3,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Cloister (cocktail)"
+    },
+    {
+        "id": 4,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Horsefeather (cocktail)"
+    },
+    {
+        "id": 5,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Vampiro (cocktail)"
+    },
+    {
+        "id": 6,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Corpse Reviver"
+    },
+    {
+        "id": 7,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Between the Sheets (cocktail)"
+    },
+    {
+        "id": 8,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Kir (cocktail)"
+    },
+    {
+        "id": 9,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Gunfire (drink)"
+    },
+    {
+        "id": 10,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Last Word (cocktail)"
+    },
+    {
+        "id": 11,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Bramble (cocktail)"
+    },
+    {
+        "id": 12,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bellini (cocktail)"
+    },
+    {
+        "id": 13,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Vodka martini"
+    },
+    {
+        "id": 14,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Alabama Slammer"
+    },
+    {
+        "id": 15,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Golden dream (cocktail)"
+    },
+    {
+        "id": 16,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Gin and tonic"
+    },
+    {
+        "id": 17,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Pegu Club (cocktail)"
+    },
+    {
+        "id": 18,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bee's Knees (cocktail)"
+    },
+    {
+        "id": 19,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Irish Car Bomb"
+    },
+    {
+        "id": 20,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Springbokkie"
+    },
+    {
+        "id": 21,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Barracuda (cocktail)"
+    },
+    {
+        "id": 22,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Appletini"
+    },
+    {
+        "id": 23,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tamagozake"
+    },
+    {
+        "id": 24,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Greyhound (cocktail)"
+    },
+    {
+        "id": 25,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Black Velvet (beer cocktail)"
+    },
+    {
+        "id": 26,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Baby Guinness"
+    },
+    {
+        "id": 27,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Sidecar (cocktail)"
+    },
+    {
+        "id": 28,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Damn the Weather (cocktail)"
+    },
+    {
+        "id": 29,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Vesper (cocktail)"
+    },
+    {
+        "id": 30,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Quick Fuck"
+    },
+    {
+        "id": 31,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Skittle Bomb"
+    },
+    {
+        "id": 32,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "7 and 7"
+    },
+    {
+        "id": 33,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Chimay\u00f3 Cocktail"
+    },
+    {
+        "id": 34,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Lynchburg Lemonade"
+    },
+    {
+        "id": 35,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "John Collins (cocktail)"
+    },
+    {
+        "id": 36,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Club-Mate"
+    },
+    {
+        "id": 37,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Kir Royal"
+    },
+    {
+        "id": 38,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tuxedo (cocktail)"
+    },
+    {
+        "id": 39,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Matador (cocktail)"
+    },
+    {
+        "id": 40,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Mickey Slim"
+    },
+    {
+        "id": 41,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Caesar (cocktail)"
+    },
+    {
+        "id": 42,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Grasshopper (cocktail)"
+    },
+    {
+        "id": 43,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Diki-Diki (cocktail)"
+    },
+    {
+        "id": 44,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Boulevardier (cocktail)"
+    },
+    {
+        "id": 45,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Jack Rose (cocktail)"
+    },
+    {
+        "id": 46,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Pink gin"
+    },
+    {
+        "id": 47,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Orange Tundra"
+    },
+    {
+        "id": 48,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Doctor (cocktail)"
+    },
+    {
+        "id": 49,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Snakebite (drink)"
+    },
+    {
+        "id": 50,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Bourbon Lancer"
+    },
+    {
+        "id": 51,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Stinger (cocktail)"
+    },
+    {
+        "id": 52,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Malecon (cocktail)"
+    },
+    {
+        "id": 53,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Aperol Spritz"
+    },
+    {
+        "id": 54,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Americano (cocktail)"
+    },
+    {
+        "id": 55,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Black Nail"
+    },
+    {
+        "id": 56,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Bronx (cocktail)"
+    },
+    {
+        "id": 57,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Cosmopolitan (cocktail)"
+    },
+    {
+        "id": 58,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Blue Lagoon (cocktail)"
+    },
+    {
+        "id": 59,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "French Connection (cocktail)"
+    },
+    {
+        "id": 60,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Kalimotxo"
+    },
+    {
+        "id": 61,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Backdraft (drink)"
+    },
+    {
+        "id": 62,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Ward 8 (cocktail)"
+    },
+    {
+        "id": 63,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Amber Moon"
+    },
+    {
+        "id": 64,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Redheaded slut"
+    },
+    {
+        "id": 65,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Gimlet (cocktail)"
+    },
+    {
+        "id": 66,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Farnell (cocktail)"
+    },
+    {
+        "id": 67,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Rickey (cocktail)"
+    },
+    {
+        "id": 68,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Astro pop (cocktail)"
+    },
+    {
+        "id": 69,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tom and Jerry (drink)"
+    },
+    {
+        "id": 70,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Flaming volcano"
+    },
+    {
+        "id": 71,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Hot buttered rum"
+    },
+    {
+        "id": 72,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Cocktails with cacha\u00e7a"
+    },
+    {
+        "id": 73,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Up to Date (cocktail)"
+    },
+    {
+        "id": 74,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Pink Lady (cocktail)"
+    },
+    {
+        "id": 75,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Polar Bear (cocktail)"
+    },
+    {
+        "id": 76,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Brass Monkey (cocktail)"
+    },
+    {
+        "id": 77,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Woo Woo"
+    },
+    {
+        "id": 78,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Yellow Bird (cocktail)"
+    },
+    {
+        "id": 79,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Japanese slipper"
+    },
+    {
+        "id": 80,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Orgasm (cocktail)"
+    },
+    {
+        "id": 81,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Red Russian (cocktail)"
+    },
+    {
+        "id": 82,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Slippery nipple"
+    },
+    {
+        "id": 83,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Gibson (cocktail)"
+    },
+    {
+        "id": 84,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Sake bomb"
+    },
+    {
+        "id": 85,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Martini (cocktail)"
+    },
+    {
+        "id": 86,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "White Russian (cocktail)"
+    },
+    {
+        "id": 87,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Blackthorn (cocktail)"
+    },
+    {
+        "id": 88,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "BLT cocktail"
+    },
+    {
+        "id": 89,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Three Wise Men (cocktail)"
+    },
+    {
+        "id": 90,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Manhattan (cocktail)"
+    },
+    {
+        "id": 91,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Buck's Fizz"
+    },
+    {
+        "id": 92,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bumbo"
+    },
+    {
+        "id": 93,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Fizzy apple cocktail"
+    },
+    {
+        "id": 94,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Zurracapote"
+    },
+    {
+        "id": 95,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Ouzini"
+    },
+    {
+        "id": 96,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Brooklyn (cocktail)"
+    },
+    {
+        "id": 97,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Blue Hawaii (drink)"
+    },
+    {
+        "id": 98,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tequila Sunrise (cocktail)"
+    },
+    {
+        "id": 99,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tom Collins"
+    },
+    {
+        "id": 100,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Rum Swizzle"
+    },
+    {
+        "id": 101,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Oatmeal Cookie (cocktail)"
+    },
+    {
+        "id": 102,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Flip (cocktail)"
+    },
+    {
+        "id": 103,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tequila Slammer"
+    },
+    {
+        "id": 104,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Rusty Nail (cocktail)"
+    },
+    {
+        "id": 105,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "20th Century (cocktail)"
+    },
+    {
+        "id": 106,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Cremat"
+    },
+    {
+        "id": 107,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Adonis (cocktail)"
+    },
+    {
+        "id": 108,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Colombia (cocktail)"
+    },
+    {
+        "id": 109,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Angel Face (cocktail)"
+    },
+    {
+        "id": 110,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Cheeky Vimto"
+    },
+    {
+        "id": 111,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Punch (drink)"
+    },
+    {
+        "id": 112,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Mimosa (cocktail)"
+    },
+    {
+        "id": 113,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Herbsaint"
+    },
+    {
+        "id": 114,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Scotch and soda (cocktail)"
+    },
+    {
+        "id": 115,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Brandy Daisy"
+    },
+    {
+        "id": 116,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Painkiller (cocktail)"
+    },
+    {
+        "id": 117,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Paloma (cocktail)"
+    },
+    {
+        "id": 118,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Harrogate Nights"
+    },
+    {
+        "id": 119,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Casino (cocktail)"
+    },
+    {
+        "id": 120,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Breakfast martini"
+    },
+    {
+        "id": 121,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Hurricane (cocktail)"
+    },
+    {
+        "id": 122,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Alexander (cocktail)"
+    },
+    {
+        "id": 123,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Aviation (cocktail)"
+    },
+    {
+        "id": 124,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Rose (cocktail)"
+    },
+    {
+        "id": 125,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Godfather (cocktail)"
+    },
+    {
+        "id": 126,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Karsk"
+    },
+    {
+        "id": 127,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bloody Mary (cocktail)"
+    },
+    {
+        "id": 128,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Prince of Wales (cocktail)"
+    },
+    {
+        "id": 129,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Screwdriver (cocktail)"
+    },
+    {
+        "id": 130,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Incredible Hulk (cocktail)"
+    },
+    {
+        "id": 131,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Paradise (cocktail)"
+    },
+    {
+        "id": 132,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "El Presidente (cocktail)"
+    },
+    {
+        "id": 133,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "List of duo and trio cocktails"
+    },
+    {
+        "id": 134,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Buck (cocktail)"
+    },
+    {
+        "id": 135,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Jack and Coke"
+    },
+    {
+        "id": 136,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Snowball (cocktail)"
+    },
+    {
+        "id": 137,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Mary Pickford (cocktail)"
+    },
+    {
+        "id": 138,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Yorsh"
+    },
+    {
+        "id": 139,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Tinto de verano"
+    },
+    {
+        "id": 140,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Modernista (cocktail)"
+    },
+    {
+        "id": 141,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Cuban Sunset"
+    },
+    {
+        "id": 142,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Black and Tan"
+    },
+    {
+        "id": 143,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bushwacker (cocktail)"
+    },
+    {
+        "id": 144,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Death in the Afternoon (cocktail)"
+    },
+    {
+        "id": 145,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Flaming Doctor Pepper"
+    },
+    {
+        "id": 146,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Toronto (cocktail)"
+    },
+    {
+        "id": 147,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Joe Gilmore"
+    },
+    {
+        "id": 148,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Cojito"
+    },
+    {
+        "id": 149,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Rob Roy (cocktail)"
+    },
+    {
+        "id": 150,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Rossini (cocktail)"
+    },
+    {
+        "id": 151,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "French 75 (cocktail)"
+    },
+    {
+        "id": 152,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "B-52 (cocktail)"
+    },
+    {
+        "id": 153,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Hugo (cocktail)"
+    },
+    {
+        "id": 154,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Macu\u00e1"
+    },
+    {
+        "id": 155,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Brandy Alexander"
+    },
+    {
+        "id": 156,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Cape Codder (cocktail)"
+    },
+    {
+        "id": 157,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Fizz (cocktail)"
+    },
+    {
+        "id": 158,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Old Etonian (cocktail)"
+    },
+    {
+        "id": 159,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Salty dog (cocktail)"
+    },
+    {
+        "id": 160,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Derby (cocktail)"
+    },
+    {
+        "id": 161,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Kamikaze (cocktail)"
+    },
+    {
+        "id": 162,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Zombie (cocktail)"
+    },
+    {
+        "id": 163,
+        "ingredients": {
+            "gin": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Brandy Sour (Cyprus)"
+    },
+    {
+        "id": 164,
+        "ingredients": {
+            "vodka": "1 oz",
+            "gin": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Bijou (cocktail)"
+    },
+    {
+        "id": 165,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "gin": "1 oz"
+        },
+        "title": "Sour (cocktail)"
+    },
+    {
+        "id": 166,
+        "ingredients": {
+            "rum": "1 oz",
+            "vodka": "1 oz",
+            "lemon": "1 oz"
+        },
+        "title": "Cooperstown Cocktail (cocktail)"
+    },
+    {
+        "id": 167,
+        "ingredients": {
+            "rum": "1 oz",
+            "lemon": "1 oz",
+            "whiskey": "1 oz"
+        },
+        "title": "Sea Breeze (cocktail)"
+    }
+]
