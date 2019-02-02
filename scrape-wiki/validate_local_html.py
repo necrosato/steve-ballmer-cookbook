@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup as bs
 def main():
     valid_to_html_filenames = {}
     not_valid_to_html_filenames = {}
-    all_to_html_filenames = yaml.load(open("./data/all_links_html_filenames.yml", "r"))
+    all_to_html_filenames = yaml.load(open("./data/name_to_html_filenames.yml", "r"))
     
     must_contain = ["Commonly used ingredients"]
     for title in all_to_html_filenames:
