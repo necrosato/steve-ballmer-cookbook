@@ -1,4 +1,315 @@
 {
-    "ingredients": {},
-    "recipes": {}
+    "ingredients": {
+        "alcohol": {
+            "amaretto": 1,
+            "apricot brandy": 1,
+            "brown creme de cacao": 1,
+            "calvados": 1,
+            "campari": 1,
+            "cognac": 1,
+            "dry sherry": 1,
+            "gin": 2,
+            "kina lillet": 1,
+            "light creme de cacao": 1,
+            "orange bitters": 1,
+            "red vermouth": 1,
+            "sloe gin": 1,
+            "southern comfort": 1,
+            "sweet vermouth": 1,
+            "vodka": 1,
+            "whiskey": 2
+        },
+        "garnish": {
+            "lemon": 2,
+            "nutmeg": 1,
+            "orange": 2,
+            "tabasco sauce": 1
+        },
+        "mixer": {
+            "7 up": 1,
+            "carrot juice": 1,
+            "lemon juice": 1,
+            "light creme": 1,
+            "orange juice": 1,
+            "raw egg": 1,
+            "soda water": 1
+        }
+    },
+    "recipes": {
+        "20th Century (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0070.html",
+            "id": 70,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "kina lillet": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "light creme de cacao": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake in an iced cocktail shaker, and strain into a cocktail glass.",
+                "Garnish with a lemon twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/20th_Century_(cocktail)"
+        },
+        "7 and 7": {
+            "html_file": "../scrape-wiki/./data/html/0221.html",
+            "id": 221,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "7 up": {
+                        "amount": 6.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour whiskey into Collins glass filled with ice.",
+                "Fill to desired level with 7 Up.",
+                "Stir lightly."
+            ],
+            "url": "https://en.wikipedia.org/wiki/7_and_7"
+        },
+        "Adonis (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0235.html",
+            "id": 235,
+            "ingredients": {
+                "alcohol": {
+                    "dry sherry": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "orange bitters": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    },
+                    "sweet vermouth": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Combine ingredients with ice in a mixing glass.",
+                "Strain into a chilled glass.",
+                "Garnish with an orange peel or twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Adonis_(cocktail)"
+        },
+        "Agent Orange (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0167.html",
+            "id": 167,
+            "ingredients": {
+                "alcohol": {
+                    "vodka": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "carrot juice": {
+                        "amount": 4.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Mix in an old fashioned glass with ice and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Agent_Orange_(cocktail)"
+        },
+        "Alabama Slammer": {
+            "html_file": "../scrape-wiki/./data/html/0293.html",
+            "id": 293,
+            "ingredients": {
+                "alcohol": {
+                    "amaretto": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "sloe gin": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "southern comfort": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "orange juice": {
+                        "amount": 4.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour into highball glass over rocks.",
+                "Stir."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Alabama_Slammer"
+        },
+        "Alexander (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0071.html",
+            "id": 71,
+            "ingredients": {
+                "alcohol": {
+                    "brown creme de cacao": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "cognac": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "nutmeg": {
+                        "amount": 1.0,
+                        "unit": "sprinkle"
+                    }
+                },
+                "mixer": {
+                    "light creme": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake all ingredients with ice and strain contents into a cocktail glass.",
+                "Sprinkle nutmeg on top and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Alexander_(cocktail)"
+        },
+        "Amber Moon": {
+            "html_file": "../scrape-wiki/./data/html/0204.html",
+            "id": 204,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "tabasco sauce": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    }
+                },
+                "mixer": {
+                    "raw egg": {
+                        "amount": 1.0,
+                        "unit": "egg"
+                    }
+                }
+            },
+            "procedure": [
+                "Crack an egg into a tall glass, leaving the yolk unbroken.",
+                "Pour in whiskey.",
+                "Add Tabasco to taste, or serve on the side."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Amber_Moon"
+        },
+        "Americano (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0310.html",
+            "id": 310,
+            "ingredients": {
+                "alcohol": {
+                    "campari": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "red vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    },
+                    "orange": {
+                        "amount": 0.5,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "soda water": {
+                        "amount": 1.0,
+                        "unit": "splash"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour the Campari and vermouth over ice into a highball glass, add a splash of soda water and garnish with half orange slice and a lemon twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Americano_(cocktail)"
+        },
+        "Angel Face (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0072.html",
+            "id": 72,
+            "ingredients": {
+                "alcohol": {
+                    "apricot brandy": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "calvados": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Shake all ingredients with ice and strain contents into a cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Angel_Face_(cocktail)"
+        }
+    }
 }

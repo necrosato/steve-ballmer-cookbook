@@ -26,17 +26,18 @@ def get_ingredients_count(recipes):
 
 def get_procedure():
     steps = []
-    step = input("enter a step, enter nothing to finish: ")
-    while step is not '':
-        steps.append(step)
-        step = input("enter a step, enter nothing to finish: ")
+    sentences = input("enter steps: ")
+    for sentence in sentences.split('.'):
+        if sentence.strip() is not '':
+            steps.append(sentence.strip() + '.')
     return steps
     
 
 def get_ingredients():
     ingredients = { "alcohol": {}, "mixer": {}, "garnish": {} }
     # populate ingredients
-    for category in ingredients:
+    for category in sorted(ingredients):
+        print("Getting ingredients for category '{}'".format(category))
         ingredient_name = input("enter {} ingredient name for recipe (lower case), "
                                 "enter nothing to move on: ".format(category))
         while ingredient_name is not '':
@@ -59,39 +60,46 @@ def get_ingredients():
 
 def main():
     valid_to_html_filenames = yaml.load(open("../scrape-wiki/data/valid_links_html_filenames.yml", "r"))
+    name_to_url = yaml.load(open("../scrape-wiki/data/name_to_links.yml", "r"))
 
-    database_json = {}
-    # Maps ingredients to occurences
-    # dict of dicts, name to a recipe
-    recipe_dict = {}
-    database_json["recipes"] = recipe_dict
+    db_path = "./json/database.json"
+    if os.path.isfile(db_path):
+        database_json = yaml.load(open("./json/database.json", "r"))
+    else:
+        # Maps ingredients to occurences
+        # dict of dicts, name to a recipe
+        database_json = {}
+        database_json["recipes"] = {}
     
     try:
-        for title in valid_to_html_filenames:
-            print("generating json for {}.".format(title))
-            recipe = {}
-            html_filename = "../scrape-wiki/" + valid_to_html_filenames[title]
-            recipe["html_file"] = html_filename
-            recipe["id"] = int(html_filename[-9:-5])
-            webbrowser.open("file://" + os.path.realpath(html_filename), new=2)
-            ok = 'y'
-            while ok is 'y':
-                recipe["ingredients"] = get_ingredients()
-                ok = input("redo? 'y' to redo, enter nothing to move on: ")
-            # List of strings that are steps
-            ok = 'y'
-            while ok is 'y':
-                recipe["procedure"] = get_procedure()
-                ok = input("redo? 'y' to redo, enter nothing to move on: ")
-
-            recipe_dict[title] = recipe
+        for title in sorted(valid_to_html_filenames):
+            if title not in database_json["recipes"]:
+                print("generating json for {}.".format(title))
+                recipe = {}
+                html_filename = "../scrape-wiki/" + valid_to_html_filenames[title]
+                recipe["html_file"] = html_filename
+                recipe["id"] = int(html_filename[-9:-5])
+                recipe["url"] = name_to_url[title]
+                webbrowser.open(recipe["url"], new=2)
+                ok = 'y'
+                while ok is 'y':
+                    recipe["ingredients"] = get_ingredients()
+                    ok = input("redo? 'y' to redo, enter nothing to move on: ")
+                # List of strings that are steps
+                ok = 'y'
+                while ok is 'y':
+                    recipe["procedure"] = get_procedure()
+                    ok = input("redo? 'y' to redo, enter nothing to move on: ")
+                database_json["recipes"][title] = recipe
+            else:
+                print("Skipping '{}' since it is in the database".format(title))
     except:
-        print("saving thus far")
+        print("\nSaving progress...")
 
     print("counting ingredients in recipes")
-    database_json["ingredients"] = get_ingredients_count(recipe_dict)
+    database_json["ingredients"] = get_ingredients_count(database_json["recipes"])
     print("saving database to file")
-    json.dump(database_json, open("./json/database.json", "w"), sort_keys=True, indent=4)
+    json.dump(database_json, open(db_path, "w"), sort_keys=True, indent=4)
 
 
 if __name__ == "__main__":
