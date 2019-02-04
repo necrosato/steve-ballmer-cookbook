@@ -32,19 +32,31 @@ def main():
     parser.add_argument('--missing_alcohol', type=int, default=0,
                         help='Return recipes with no more than this many alcohol ingredients missing '
                              'from the supplied ingredients list.')
+    parser.add_argument('--missing_garnish', type=int, default=0,
+                        help='Return recipes with no more than this many garnish ingredients missing '
+                             'from the supplied ingredients list.')
     parser.add_argument('--missing_mixer', type=int, default=0,
-    parser.add_argument('--alcohol', '-a', action='append', required=True,
+                        help='Return recipes with no more than this many mixer ingredients missing '
+                             'from the supplied ingredients list.')
+    parser.add_argument('--alcohol', '-a', action='append',
                         help='Alcohol ingredient to search recipes for. Can be passed multiple times.')
-    parser.add_argument('--mixer', '-a', action='append', required=True,
-                        help='Alcohol ingredient to search recipes for. Can be passed multiple times.')
+    parser.add_argument('--garnish', '-g', action='append',
+                        help='Garnish ingredient to search recipes for. Can be passed multiple times.')
+    parser.add_argument('--mixer', '-m', action='append',
+                        help='Mixer ingredient to search recipes for. Can be passed multiple times.')
     args = parser.parse_args()
-    print(args)
-    query_ingredients = args.ingredient
+    alcohol = {} if args.alcohol is None else args.alcohol
+    garnish = {} if args.garnish is None else args.garnish
+    mixer = {} if args.mixer is None else args.mixer
+    ingredients = {"alcohol": alcohol, "garnish": garnish, "mixer": mixer }
+    allowed_missing = {"alcohol": args.missing_alcohol,
+                       "garnish": args.missing_garnish,
+                       "mixer": args.missing_mixer }
     database = json.load(open("./json/database.json", "r"))
     recipe_dict = database["recipes"]
     for recipe_name in recipe_dict:
         recipe = recipe_dict[recipe_name]
-        if is_match(recipe, query_ingredients, args.missing):
+        if is_match(recipe, ingredients, allowed_missing):
             json.dump(recipe, sys.stdout, sort_keys=True, indent=4)
 
 if __name__ == "__main__":
