@@ -1,0 +1,1983 @@
+{
+    "ingredients": {
+        "alcohol": {
+            "amaretto": 1,
+            "angostura bitters": 3,
+            "aperol": 1,
+            "apple brandy": 1,
+            "apple schnapps": 1,
+            "apricot brandy": 1,
+            "bitters": 1,
+            "blackberry liqueur": 1,
+            "blue curacao": 3,
+            "bourbon": 2,
+            "brandy": 2,
+            "brown creme de cacao": 2,
+            "calvados": 2,
+            "campari": 2,
+            "champagne": 3,
+            "cinnamon schnapps": 1,
+            "coffee liqueur": 1,
+            "cognac": 4,
+            "cointreau": 2,
+            "creme de cassis": 1,
+            "creme de violette": 1,
+            "curacao": 1,
+            "dark creme de cacao": 1,
+            "dark rum": 2,
+            "dry sherry": 1,
+            "dry vermouth": 4,
+            "frangelico": 1,
+            "galliano": 1,
+            "ggin": 1,
+            "gin": 13,
+            "grand marnier": 1,
+            "green chartreuse": 1,
+            "irish cream": 3,
+            "irish mist": 1,
+            "kahlua": 2,
+            "kina lillet": 1,
+            "light creme de cacao": 1,
+            "malibu": 1,
+            "maraschino liqueur": 2,
+            "marschino liqueur": 1,
+            "orange bitters": 3,
+            "pale ale": 1,
+            "peach bitters": 1,
+            "prosecco": 3,
+            "punsch": 2,
+            "red vermouth": 3,
+            "rum": 3,
+            "sloe gin": 2,
+            "southern comfort": 1,
+            "stout": 2,
+            "sweet vermouth": 6,
+            "tequila": 1,
+            "triple sec": 3,
+            "vodka": 9,
+            "whiskey": 5,
+            "white rum": 4,
+            "yellow chartreuse": 2
+        },
+        "garnish": {
+            "apple": 2,
+            "blackberry": 1,
+            "celery": 1,
+            "cinnamon": 1,
+            "lemon": 11,
+            "lemon ": 1,
+            "lime": 3,
+            "maraschino cherry": 5,
+            "mint": 4,
+            "nutmeg": 3,
+            "orange": 9,
+            "tabasco sauce": 1
+        },
+        "mixer": {
+            "7 up": 1,
+            "apple cider": 1,
+            "carrot juice": 1,
+            "celery salt": 1,
+            "coconut cream": 1,
+            "cranberry juice": 2,
+            "cream": 1,
+            "gomme syrup": 1,
+            "grapefruit juice": 2,
+            "grenadine": 3,
+            "guava nectar": 1,
+            "half and half": 1,
+            "honey": 1,
+            "ice": 1,
+            "lemon": 1,
+            "lemon juice": 14,
+            "lemonade": 3,
+            "light creme": 1,
+            "lime juice": 5,
+            "lime soda": 1,
+            "mint": 1,
+            "orange juice": 7,
+            "orange marmalade": 1,
+            "peach puree": 1,
+            "pepper": 1,
+            "pineapple juice": 2,
+            "raw egg": 1,
+            "simple syrup": 2,
+            "soda water": 5,
+            "sugar": 1,
+            "tabasco sauce": 1,
+            "tomato juice": 1,
+            "water": 1,
+            "worcestershire sauce": 1
+        }
+    },
+    "recipes": {
+        "20th Century (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0070.html",
+            "id": 70,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "kina lillet": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "light creme de cacao": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake in an iced cocktail shaker, and strain into a cocktail glass.",
+                "Garnish with a lemon twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/20th_Century_(cocktail)"
+        },
+        "7 and 7": {
+            "html_file": "../scrape-wiki/./data/html/0221.html",
+            "id": 221,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "7 up": {
+                        "amount": 6.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour whiskey into Collins glass filled with ice.",
+                "Fill to desired level with 7 Up.",
+                "Stir lightly."
+            ],
+            "url": "https://en.wikipedia.org/wiki/7_and_7"
+        },
+        "Adonis (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0235.html",
+            "id": 235,
+            "ingredients": {
+                "alcohol": {
+                    "dry sherry": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "orange bitters": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    },
+                    "sweet vermouth": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Combine ingredients with ice in a mixing glass.",
+                "Strain into a chilled glass.",
+                "Garnish with an orange peel or twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Adonis_(cocktail)"
+        },
+        "Agent Orange (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0167.html",
+            "id": 167,
+            "ingredients": {
+                "alcohol": {
+                    "vodka": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "carrot juice": {
+                        "amount": 4.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Mix in an old fashioned glass with ice and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Agent_Orange_(cocktail)"
+        },
+        "Alabama Slammer": {
+            "html_file": "../scrape-wiki/./data/html/0293.html",
+            "id": 293,
+            "ingredients": {
+                "alcohol": {
+                    "amaretto": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "sloe gin": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "southern comfort": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "orange juice": {
+                        "amount": 4.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour into highball glass over rocks.",
+                "Stir."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Alabama_Slammer"
+        },
+        "Alexander (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0071.html",
+            "id": 71,
+            "ingredients": {
+                "alcohol": {
+                    "brown creme de cacao": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "cognac": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "nutmeg": {
+                        "amount": 1.0,
+                        "unit": "sprinkle"
+                    }
+                },
+                "mixer": {
+                    "light creme": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake all ingredients with ice and strain contents into a cocktail glass.",
+                "Sprinkle nutmeg on top and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Alexander_(cocktail)"
+        },
+        "Amber Moon": {
+            "html_file": "../scrape-wiki/./data/html/0204.html",
+            "id": 204,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "tabasco sauce": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    }
+                },
+                "mixer": {
+                    "raw egg": {
+                        "amount": 1.0,
+                        "unit": "egg"
+                    }
+                }
+            },
+            "procedure": [
+                "Crack an egg into a tall glass, leaving the yolk unbroken.",
+                "Pour in whiskey.",
+                "Add Tabasco to taste, or serve on the side."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Amber_Moon"
+        },
+        "Americano (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0310.html",
+            "id": 310,
+            "ingredients": {
+                "alcohol": {
+                    "campari": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "red vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    },
+                    "orange": {
+                        "amount": 0.5,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "soda water": {
+                        "amount": 1.0,
+                        "unit": "splash"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour the Campari and vermouth over ice into a highball glass, add a splash of soda water and garnish with half orange slice and a lemon twist."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Americano_(cocktail)"
+        },
+        "Angel Face (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0072.html",
+            "id": 72,
+            "ingredients": {
+                "alcohol": {
+                    "apricot brandy": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "calvados": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Shake all ingredients with ice and strain contents into a cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Angel_Face_(cocktail)"
+        },
+        "Aperol Spritz": {
+            "html_file": "../scrape-wiki/./data/html/0249.html",
+            "id": 249,
+            "ingredients": {
+                "alcohol": {
+                    "aperol": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    },
+                    "prosecco": {
+                        "amount": 3.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "soda water": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [
+                "Add 3 parts prosecco, 2 parts Aperol and top up with soda water, garnish with a slice of orange and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Aperol_Spritz"
+        },
+        "Appletini": {
+            "html_file": "../scrape-wiki/./data/html/0168.html",
+            "id": 168,
+            "ingredients": {
+                "alcohol": {
+                    "apple schnapps": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "cointreau": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "vodka": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "apple": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Mix in a shaker, then pour into a chilled glass.",
+                "Garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Appletini"
+        },
+        "Aviation (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0073.html",
+            "id": 73,
+            "ingredients": {
+                "alcohol": {
+                    "creme de violette": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "maraschino liqueur": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "maraschino cherry": {
+                        "amount": 1.0,
+                        "unit": "cherry"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Add all ingredients into cocktail shaker filled with ice.",
+                "Shake well and strain into cocktail glass.",
+                "Garnish with a cherry."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Aviation_cocktail"
+        },
+        "B-52 (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0269.html",
+            "id": 269,
+            "ingredients": {
+                "alcohol": {
+                    "grand marnier": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "irish cream": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "kahlua": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Layer ingredients into a shot glass.",
+                "Serve with a stirrer."
+            ],
+            "url": "https://en.wikipedia.org/wiki/B-52_(cocktail)"
+        },
+        "Baby Guinness": {
+            "html_file": "../scrape-wiki/./data/html/0271.html",
+            "id": 271,
+            "ingredients": {
+                "alcohol": {
+                    "coffee liqueur": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "irish cream": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Float Irish cream on top of coffee liqueur."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Baby_Guinness"
+        },
+        "Barracuda (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0359.html",
+            "id": 359,
+            "ingredients": {
+                "alcohol": {
+                    "galliano": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "prosecco": {
+                        "amount": 1.0,
+                        "unit": "top"
+                    },
+                    "rum": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lime juice": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "pineapple juice": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake pour ingredients with ice.",
+                "Strain into glass, top with Sparkling wine."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Barracuda_(cocktail)"
+        },
+        "Bee's Knees (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0074.html",
+            "id": 74,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "honey": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "lemon juice": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake with ice and strain into a chilled large cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bee%27s_Knees_(cocktail)"
+        },
+        "Bellini (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0250.html",
+            "id": 250,
+            "ingredients": {
+                "alcohol": {
+                    "prosecco": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "peach puree": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour peach pur\u00e9e into chilled glass, add sparkling wine.",
+                "Stir gently."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bellini_(cocktail)"
+        },
+        "Between the Sheets (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0118.html",
+            "id": 118,
+            "ingredients": {
+                "alcohol": {
+                    "cognac": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "triple sec": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "white rum": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.67,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Between_the_Sheets_(cocktail)"
+        },
+        "Bijou (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0075.html",
+            "id": 75,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "green chartreuse": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "orange bitters": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "sweet vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Stir in mixing glass with ice and strain."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bijou_(cocktail)"
+        },
+        "Black Nail": {
+            "html_file": "../scrape-wiki/./data/html/0206.html",
+            "id": 206,
+            "ingredients": {
+                "alcohol": {
+                    "irish mist": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "whiskey": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Fill a rocks glass with ice cubes and then add the Irish whiskey and then Irish Mist.",
+                "Stir gently."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Black_Nail"
+        },
+        "Black Velvet (beer cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0031.html",
+            "id": 31,
+            "ingredients": {
+                "alcohol": {
+                    "champagne": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "stout": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Mix equal parts stout and Champagne."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Black_Velvet_(beer_cocktail)"
+        },
+        "Black and Tan": {
+            "html_file": "../scrape-wiki/./data/html/0030.html",
+            "id": 30,
+            "ingredients": {
+                "alcohol": {
+                    "pale ale": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "stout": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Layer guinness on top of the pale ale or lager."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Black_and_Tan"
+        },
+        "Blackthorn (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0076.html",
+            "id": 76,
+            "ingredients": {
+                "alcohol": {
+                    "angostura bitters": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "sloe gin": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "sweet vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "peel"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Fill mixing glass with gin, vermouth, and bitters.",
+                "Add ice and stir until chilled, then add strain into a chilled glass.",
+                "Garnish with a lemon peel."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Blackthorn_(cocktail)"
+        },
+        "Bloody Mary (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0154.html",
+            "id": 154,
+            "ingredients": {
+                "alcohol": {
+                    "vodka": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "celery": {
+                        "amount": 1.0,
+                        "unit": "stalk"
+                    },
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "wedge"
+                    }
+                },
+                "mixer": {
+                    "celery salt": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "lemon juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "pepper": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "tabasco sauce": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    },
+                    "tomato juice": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    },
+                    "worcestershire sauce": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    }
+                }
+            },
+            "procedure": [
+                "Stirring gently, pour all ingredients into highball glass.",
+                "Garnish."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Ginza_Mary"
+        },
+        "Blue Hawaii (drink)": {
+            "html_file": "../scrape-wiki/./data/html/0119.html",
+            "id": 119,
+            "ingredients": {
+                "alcohol": {
+                    "blue curacao": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "vodka": {
+                        "amount": 0.67,
+                        "unit": "fl oz"
+                    },
+                    "white rum": {
+                        "amount": 0.67,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "maraschino cherry": {
+                        "amount": 1.0,
+                        "unit": "cherry"
+                    },
+                    "orange": {
+                        "amount": 0.25,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    },
+                    "lime juice": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    },
+                    "pineapple juice": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    },
+                    "simple syrup": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Combine all ingredients with ice, stir or shake, then pour into a hurricane glass with the ice.",
+                "For garnish score pineapple or orange slice with a knife and insert onto rim of glass; optionally use toothpick or cocktail umbrella to spear maraschino cherry through center and attach to top of fruit slice; otherwise float cherry on top of ice."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Blue_Hawaii_(drink)"
+        },
+        "Blue Lagoon (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0173.html",
+            "id": 173,
+            "ingredients": {
+                "alcohol": {
+                    "blue curacao": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "vodka": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "lemonade": {
+                        "amount": 4.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "pour vodka and blue curacao in a shaker with ice, shake well & strain into ice filled highball glass, top with lemonade, garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Blue_Lagoon_(cocktail)"
+        },
+        "Boulevardier (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0208.html",
+            "id": 208,
+            "ingredients": {
+                "alcohol": {
+                    "bourbon": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "campari": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "red vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "peel"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Stir with ice, strain, garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Boulevardier_(cocktail)"
+        },
+        "Bourbon Lancer": {
+            "html_file": "../scrape-wiki/./data/html/0209.html",
+            "id": 209,
+            "ingredients": {
+                "alcohol": {
+                    "angostura bitters": {
+                        "amount": 3.0,
+                        "unit": "dashes"
+                    },
+                    "bourbon": {
+                        "amount": 9.0,
+                        "unit": "parts"
+                    },
+                    "champagne": {
+                        "amount": 16.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Build over ice; stir.",
+                "Garnish with twist of lemon peel."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bourbon_Lancer"
+        },
+        "Bramble (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0078.html",
+            "id": 78,
+            "ingredients": {
+                "alcohol": {
+                    "blackberry liqueur": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "blackberry": {
+                        "amount": 1.0,
+                        "unit": "berry"
+                    },
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "simple syrup": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Fill glass with crushed ice.",
+                "Build gin, lemon juice and simple syrup over.",
+                "Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect.",
+                "Garnish with two blackberries and lemon slice."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bramble_(cocktail)"
+        },
+        "Brandy Alexander": {
+            "html_file": "../scrape-wiki/./data/html/0046.html",
+            "id": 46,
+            "ingredients": {
+                "alcohol": {
+                    "brown creme de cacao": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "cognac": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "nutmeg": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    }
+                },
+                "mixer": {
+                    "cream": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake and strain into a chilled cocktail glass.",
+                "Sprinkle with fresh ground nutmeg."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Brandy_Alexander"
+        },
+        "Brandy Daisy": {
+            "html_file": "../scrape-wiki/./data/html/0050.html",
+            "id": 50,
+            "ingredients": {
+                "alcohol": {
+                    "brandy": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "yellow chartreuse": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "soda water": {
+                        "amount": 1.0,
+                        "unit": "splash"
+                    }
+                }
+            },
+            "procedure": [
+                "Stir well with cracked ice in a cocktail shaker, then strain into a chilled Collins glass and top with a splash of chilled club soda or seltzer."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Brandy_Daisy"
+        },
+        "Brandy Sour (Cyprus)": {
+            "html_file": "../scrape-wiki/./data/html/0048.html",
+            "id": 48,
+            "ingredients": {
+                "alcohol": {
+                    "bitters": {
+                        "amount": 3.0,
+                        "unit": "dashes"
+                    },
+                    "brandy": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "soda water": {
+                        "amount": 1.0,
+                        "unit": "splash"
+                    }
+                }
+            },
+            "procedure": [
+                "Stir into glass over ice, garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Brandy_Sour_(Cyprus)"
+        },
+        "Brass Monkey (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0120.html",
+            "id": 120,
+            "ingredients": {
+                "alcohol": {
+                    "dark rum": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "vodka": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "orange juice": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Stir together and serve over ice."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Brass_Monkey_(cocktail)"
+        },
+        "Breakfast martini": {
+            "html_file": "../scrape-wiki/./data/html/0079.html",
+            "id": 79,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "triple sec": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.75,
+                        "unit": "fl oz"
+                    },
+                    "orange marmalade": {
+                        "amount": 1.0,
+                        "unit": "spoon"
+                    }
+                }
+            },
+            "procedure": [
+                "Mix or shake in cocktail shaker filled with ice cubes.",
+                "Strain into glass and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Breakfast_martini"
+        },
+        "Bronx (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0080.html",
+            "id": 80,
+            "ingredients": {
+                "alcohol": {
+                    "dry vermouth": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "red vermouth": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "orange juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour into cocktail shaker all ingredients with ice cubes, shake well.",
+                "Strain in chilled cocktail or martini glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bronx_(cocktail)"
+        },
+        "Brooklyn (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0210.html",
+            "id": 210,
+            "ingredients": {
+                "alcohol": {
+                    "angostura bitters": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    },
+                    "dry vermouth": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "marschino liqueur": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    },
+                    "whiskey": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "maraschino cherry": {
+                        "amount": 1.0,
+                        "unit": "cherry"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Stirred over ice, strained into a chilled glass, garnished, and served straight up."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_(cocktail)"
+        },
+        "Buck's Fizz": {
+            "html_file": "../scrape-wiki/./data/html/0254.html",
+            "id": 254,
+            "ingredients": {
+                "alcohol": {
+                    "champagne": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "orange juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour the orange juice into glass and top up Champagne.",
+                "Stir gently, garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Buck%27s_Fizz_(cocktail)"
+        },
+        "Bumbo": {
+            "html_file": "../scrape-wiki/./data/html/0121.html",
+            "id": 121,
+            "ingredients": {
+                "alcohol": {
+                    "rum": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "cinnamon": {
+                        "amount": 1.0,
+                        "unit": "sprinkle"
+                    },
+                    "nutmeg": {
+                        "amount": 1.0,
+                        "unit": "sprinkle"
+                    }
+                },
+                "mixer": {
+                    "sugar": {
+                        "amount": 2.0,
+                        "unit": "cubes"
+                    },
+                    "water": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Mix and garnish."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bumbo"
+        },
+        "Bushwacker (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0122.html",
+            "id": 122,
+            "ingredients": {
+                "alcohol": {
+                    "dark creme de cacao": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "dark rum": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "kahlua": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "maraschino cherry": {
+                        "amount": 1.0,
+                        "unit": "cherry"
+                    }
+                },
+                "mixer": {
+                    "coconut cream": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "half and half": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "ice": {
+                        "amount": 1.0,
+                        "unit": "cup"
+                    }
+                }
+            },
+            "procedure": [
+                "Blend all the ingredients together in a blender, including the ice, and then strain into a hurricane glass.",
+                "Place cherry on top of the drink as a garnish and serve.",
+                "Whipped cream can also be added as a garnish to the top of the drink before the cherry."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Bushwacker_(cocktail)"
+        },
+        "Cape Codder (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0175.html",
+            "id": 175,
+            "ingredients": {
+                "alcohol": {
+                    "vodka": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {
+                    "lime": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "cranberry juice": {
+                        "amount": 3.0,
+                        "unit": "parts"
+                    }
+                }
+            },
+            "procedure": [
+                "Build all ingredients in a highball glass filled with ice.",
+                "Garnish with lime wedge."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cape_Codder_(cocktail)"
+        },
+        "Carrot Cake (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0301.html",
+            "id": 301,
+            "ingredients": {
+                "alcohol": {
+                    "cinnamon schnapps": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "frangelico": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "irish cream": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [],
+            "url": "https://en.wikipedia.org/wiki/Carrot_Cake_(cocktail)"
+        },
+        "Casino (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0081.html",
+            "id": 81,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.33,
+                        "unit": "fl oz"
+                    },
+                    "maraschino liqueur": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "orange bitters": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    },
+                    "maraschino cherry": {
+                        "amount": 1.0,
+                        "unit": "cherry"
+                    }
+                },
+                "mixer": {
+                    "lemon juice": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour all ingredients into shaker with ice cubes.",
+                "Shake well.",
+                "Strain into chilled cocktail glass.",
+                "Garnish with a lemon twist and a maraschino cherry.",
+                "Serve without a straw."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Casino_(cocktail)"
+        },
+        "Chimay\u00f3 Cocktail": {
+            "html_file": "../scrape-wiki/./data/html/0157.html",
+            "id": 157,
+            "ingredients": {
+                "alcohol": {
+                    "creme de cassis": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    },
+                    "tequila": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "apple": {
+                        "amount": 1.0,
+                        "unit": "slize"
+                    }
+                },
+                "mixer": {
+                    "apple cider": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "lemon juice": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour the tequila and unfiltered apple cider into glass over ice.",
+                "Add the lemon juice and creme de cassis and stir.",
+                "Garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Chimay%C3%B3_Cocktail"
+        },
+        "Cloister (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0082.html",
+            "id": 82,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    },
+                    "yellow chartreuse": {
+                        "amount": 1.0,
+                        "unit": "tsp"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "grapefruit juice": {
+                        "amount": 2.0,
+                        "unit": "tsp"
+                    },
+                    "lemon juice": {
+                        "amount": 1.0,
+                        "unit": "tsp"
+                    }
+                }
+            },
+            "procedure": [
+                "Combine ingredients with ice in cocktail shaker; shake well, then strain into cocktail glass, pouring over ice."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cloister_(cocktail)"
+        },
+        "Cojito": {
+            "html_file": "../scrape-wiki/./data/html/0124.html",
+            "id": 124,
+            "ingredients": {
+                "alcohol": {
+                    "malibu": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "white rum": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "mint": {
+                        "amount": 1.0,
+                        "unit": "sprig"
+                    }
+                },
+                "mixer": {
+                    "lime juice": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "mint": {
+                        "amount": 3.0,
+                        "unit": "leafs"
+                    }
+                }
+            },
+            "procedure": [
+                "In a shaker add white rum, Malibu, lime juice, some mint leaves and crushed ice, garnish with the sprig of mint."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cojito"
+        },
+        "Colombia (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0176.html",
+            "id": 176,
+            "ingredients": {
+                "alcohol": {
+                    "blue curacao": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "vodka": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "grenadine": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "lemon juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "orange juice": {
+                        "amount": 6.0,
+                        "unit": "parts"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake the vodka and citrus juices in a mixer, then strain into the glass.",
+                "Slide the grenadine down one side of the glass, where it will sink to the bottom.",
+                "Slide the curacao down the other side, to lie between the vodka and grenadine, and serve before the layers have a chance to mix."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Colombia_(cocktail)"
+        },
+        "Cooperstown Cocktail (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0084.html",
+            "id": 84,
+            "ingredients": {
+                "alcohol": {
+                    "dry vermouth": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "sweet vermouth": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "mint": {
+                        "amount": 1.0,
+                        "unit": "sprig"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Shake with ice and strain into chilled cocktail glass, add mint."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cooperstown_Cocktail_(cocktail)"
+        },
+        "Corpse Reviver": {
+            "html_file": "../scrape-wiki/./data/html/0085.html",
+            "id": 85,
+            "ingredients": {
+                "alcohol": {
+                    "apple brandy": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "cognac": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    },
+                    "sweet vermouth": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {}
+            },
+            "procedure": [
+                "Stir with ice, strain into a chilled cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Corpse_Reviver"
+        },
+        "Cosmopolitan (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0177.html",
+            "id": 177,
+            "ingredients": {
+                "alcohol": {
+                    "cointreau": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "vodka": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lime": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "cranberry juice": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "lime juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake all ingredients in cocktail shaker filled with ice.",
+                "Strain into a large cocktail glass.",
+                "Garnish with lime slice."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)"
+        },
+        "Cuban Sunset": {
+            "html_file": "../scrape-wiki/./data/html/0127.html",
+            "id": 127,
+            "ingredients": {
+                "alcohol": {
+                    "white rum": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon ": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "grenadine": {
+                        "amount": 0.67,
+                        "unit": "fl oz"
+                    },
+                    "guava nectar": {
+                        "amount": 1.33,
+                        "unit": "fl oz"
+                    },
+                    "lemonade": {
+                        "amount": 1.33,
+                        "unit": "fl oz"
+                    },
+                    "lime soda": {
+                        "amount": 3.0,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Fill highball (tall) glass with ice.",
+                "Mix lime soda, lemonade, guava nectar, and grenadine syrup together to form a mixture.",
+                "Pour rum into glasses over ice, then evenly layer the guava mixture over the rum.",
+                "Mix as desired.",
+                "Garnish with a half-slice of lemon."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Cuban_Sunset"
+        },
+        "Damn the Weather (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0086.html",
+            "id": 86,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "sweet vermouth": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "triple sec": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "orange juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake with ice and strain into a chilled large cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Damn_the_Weather_(cocktail)"
+        },
+        "Derby (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0088.html",
+            "id": 88,
+            "ingredients": {
+                "alcohol": {
+                    "ggin": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "peach bitters": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    }
+                },
+                "garnish": {
+                    "mint": {
+                        "amount": 2.0,
+                        "unit": "leaves"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Pour all ingredients into a mixing glass with ice.",
+                "Stir.",
+                "Strain into a cocktail glass.",
+                "Garnish with a sprig of fresh mint in the drink."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Derby_(cocktail)"
+        },
+        "Diki-Diki (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0053.html",
+            "id": 53,
+            "ingredients": {
+                "alcohol": {
+                    "calvados": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    },
+                    "punsch": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "grapefruit juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [],
+            "url": "https://en.wikipedia.org/wiki/Diki-Diki_(cocktail)"
+        },
+        "Doctor (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0298.html",
+            "id": 298,
+            "ingredients": {
+                "alcohol": {
+                    "punsch": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lime juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "orange juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [],
+            "url": "https://en.wikipedia.org/wiki/Doctor_(cocktail)"
+        },
+        "El Presidente (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0130.html",
+            "id": 130,
+            "ingredients": {
+                "alcohol": {
+                    "curacao": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "dry vermouth": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "rum": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "grenadine": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    }
+                }
+            },
+            "procedure": [
+                "Stir well with ice, then strain into glass.",
+                "Garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/El_Presidente_(cocktail)"
+        },
+        "Farnell (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0211.html",
+            "id": 211,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {
+                    "lime": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    },
+                    "mint": {
+                        "amount": 1.0,
+                        "unit": "sprig"
+                    }
+                },
+                "mixer": {
+                    "lemonade": {
+                        "amount": 3.0,
+                        "unit": "parts"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour Jack Daniel's into Collins glass filled with ice.",
+                "Fill to desired level with lemonade.",
+                "Stir lightly and garnish with lime and mint."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Farnell_(cocktail)"
+        },
+        "Fizz (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0093.html",
+            "id": 93,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "gomme syrup": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "lemon juice": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "soda water": {
+                        "amount": 2.67,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake all ingredients with ice cubes, except soda water.",
+                "Pour into glass.",
+                "Top with soda water."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Gin_Fizz"
+        }
+    }
+}
