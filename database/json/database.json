@@ -13,7 +13,7 @@
             "bourbon": 2,
             "brandy": 2,
             "brown creme de cacao": 2,
-            "calvados": 1,
+            "calvados": 2,
             "campari": 2,
             "champagne": 3,
             "cinnamon schnapps": 1,
@@ -22,13 +22,15 @@
             "cointreau": 2,
             "creme de cassis": 1,
             "creme de violette": 1,
+            "curacao": 1,
             "dark creme de cacao": 1,
             "dark rum": 2,
             "dry sherry": 1,
-            "dry vermouth": 3,
+            "dry vermouth": 4,
             "frangelico": 1,
             "galliano": 1,
-            "gin": 11,
+            "ggin": 1,
+            "gin": 13,
             "grand marnier": 1,
             "green chartreuse": 1,
             "irish cream": 3,
@@ -41,17 +43,19 @@
             "marschino liqueur": 1,
             "orange bitters": 3,
             "pale ale": 1,
+            "peach bitters": 1,
             "prosecco": 3,
+            "punsch": 2,
             "red vermouth": 3,
-            "rum": 2,
+            "rum": 3,
             "sloe gin": 2,
             "southern comfort": 1,
             "stout": 2,
-            "sweet vermouth": 5,
+            "sweet vermouth": 6,
             "tequila": 1,
-            "triple sec": 2,
+            "triple sec": 3,
             "vodka": 9,
-            "whiskey": 4,
+            "whiskey": 5,
             "white rum": 4,
             "yellow chartreuse": 2
         },
@@ -60,13 +64,13 @@
             "blackberry": 1,
             "celery": 1,
             "cinnamon": 1,
-            "lemon": 10,
+            "lemon": 11,
             "lemon ": 1,
-            "lime": 2,
+            "lime": 3,
             "maraschino cherry": 5,
-            "mint": 2,
+            "mint": 4,
             "nutmeg": 3,
-            "orange": 7,
+            "orange": 9,
             "tabasco sauce": 1
         },
         "mixer": {
@@ -77,27 +81,28 @@
             "coconut cream": 1,
             "cranberry juice": 2,
             "cream": 1,
-            "grapefruit juice": 1,
-            "grenadine": 2,
+            "gomme syrup": 1,
+            "grapefruit juice": 2,
+            "grenadine": 3,
             "guava nectar": 1,
             "half and half": 1,
             "honey": 1,
             "ice": 1,
             "lemon": 1,
-            "lemon juice": 13,
-            "lemonade": 2,
+            "lemon juice": 14,
+            "lemonade": 3,
             "light creme": 1,
-            "lime juice": 4,
+            "lime juice": 5,
             "lime soda": 1,
             "mint": 1,
-            "orange juice": 5,
+            "orange juice": 7,
             "orange marmalade": 1,
             "peach puree": 1,
             "pepper": 1,
             "pineapple juice": 2,
             "raw egg": 1,
             "simple syrup": 2,
-            "soda water": 4,
+            "soda water": 5,
             "sugar": 1,
             "tabasco sauce": 1,
             "tomato juice": 1,
@@ -1748,6 +1753,231 @@
                 "Garnish with a half-slice of lemon."
             ],
             "url": "https://en.wikipedia.org/wiki/Cuban_Sunset"
+        },
+        "Damn the Weather (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0086.html",
+            "id": 86,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "sweet vermouth": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    },
+                    "triple sec": {
+                        "amount": 0.25,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "orange juice": {
+                        "amount": 0.5,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake with ice and strain into a chilled large cocktail glass."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Damn_the_Weather_(cocktail)"
+        },
+        "Derby (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0088.html",
+            "id": 88,
+            "ingredients": {
+                "alcohol": {
+                    "ggin": {
+                        "amount": 2.0,
+                        "unit": "fl oz"
+                    },
+                    "peach bitters": {
+                        "amount": 2.0,
+                        "unit": "dashes"
+                    }
+                },
+                "garnish": {
+                    "mint": {
+                        "amount": 2.0,
+                        "unit": "leaves"
+                    }
+                },
+                "mixer": {}
+            },
+            "procedure": [
+                "Pour all ingredients into a mixing glass with ice.",
+                "Stir.",
+                "Strain into a cocktail glass.",
+                "Garnish with a sprig of fresh mint in the drink."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Derby_(cocktail)"
+        },
+        "Diki-Diki (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0053.html",
+            "id": 53,
+            "ingredients": {
+                "alcohol": {
+                    "calvados": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    },
+                    "punsch": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "grapefruit juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [],
+            "url": "https://en.wikipedia.org/wiki/Diki-Diki_(cocktail)"
+        },
+        "Doctor (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0298.html",
+            "id": 298,
+            "ingredients": {
+                "alcohol": {
+                    "punsch": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {},
+                "mixer": {
+                    "lime juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "orange juice": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                }
+            },
+            "procedure": [],
+            "url": "https://en.wikipedia.org/wiki/Doctor_(cocktail)"
+        },
+        "El Presidente (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0130.html",
+            "id": 130,
+            "ingredients": {
+                "alcohol": {
+                    "curacao": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "dry vermouth": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    },
+                    "rum": {
+                        "amount": 2.0,
+                        "unit": "parts"
+                    }
+                },
+                "garnish": {
+                    "orange": {
+                        "amount": 1.0,
+                        "unit": "twist"
+                    }
+                },
+                "mixer": {
+                    "grenadine": {
+                        "amount": 1.0,
+                        "unit": "dash"
+                    }
+                }
+            },
+            "procedure": [
+                "Stir well with ice, then strain into glass.",
+                "Garnish and serve."
+            ],
+            "url": "https://en.wikipedia.org/wiki/El_Presidente_(cocktail)"
+        },
+        "Farnell (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0211.html",
+            "id": 211,
+            "ingredients": {
+                "alcohol": {
+                    "whiskey": {
+                        "amount": 1.0,
+                        "unit": "part"
+                    }
+                },
+                "garnish": {
+                    "lime": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    },
+                    "mint": {
+                        "amount": 1.0,
+                        "unit": "sprig"
+                    }
+                },
+                "mixer": {
+                    "lemonade": {
+                        "amount": 3.0,
+                        "unit": "parts"
+                    }
+                }
+            },
+            "procedure": [
+                "Pour Jack Daniel's into Collins glass filled with ice.",
+                "Fill to desired level with lemonade.",
+                "Stir lightly and garnish with lime and mint."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Farnell_(cocktail)"
+        },
+        "Fizz (cocktail)": {
+            "html_file": "../scrape-wiki/./data/html/0093.html",
+            "id": 93,
+            "ingredients": {
+                "alcohol": {
+                    "gin": {
+                        "amount": 1.5,
+                        "unit": "fl oz"
+                    }
+                },
+                "garnish": {
+                    "lemon": {
+                        "amount": 1.0,
+                        "unit": "slice"
+                    }
+                },
+                "mixer": {
+                    "gomme syrup": {
+                        "amount": 0.33,
+                        "unit": "fl oz"
+                    },
+                    "lemon juice": {
+                        "amount": 1.0,
+                        "unit": "fl oz"
+                    },
+                    "soda water": {
+                        "amount": 2.67,
+                        "unit": "fl oz"
+                    }
+                }
+            },
+            "procedure": [
+                "Shake all ingredients with ice cubes, except soda water.",
+                "Pour into glass.",
+                "Top with soda water."
+            ],
+            "url": "https://en.wikipedia.org/wiki/Gin_Fizz"
         }
     }
 }
