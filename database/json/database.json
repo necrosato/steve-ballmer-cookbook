@@ -29,8 +29,7 @@
             "dry vermouth": 4,
             "frangelico": 1,
             "galliano": 1,
-            "ggin": 1,
-            "gin": 13,
+            "gin": 14,
             "grand marnier": 1,
             "green chartreuse": 1,
             "irish cream": 3,
@@ -1795,7 +1794,7 @@
             "id": 88,
             "ingredients": {
                 "alcohol": {
-                    "ggin": {
+                    "gin": {
                         "amount": 2.0,
                         "unit": "fl oz"
                     },
