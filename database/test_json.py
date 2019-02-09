@@ -11,7 +11,7 @@ def is_match(recipe, ingredients, allowed_missing):
     '''
     recipe: dict representing a recipe
     ingredients: user supplied ingredients to check against recipe ingredients.
-                 dict with same keys as recipe["ingredients"]
+                 dict with same keys as recipe["ingredients"] that map to lists of ingredient names
     allowed_missing: dict with same keys as recipe["ingredients"]. Should map to ints
     '''
     misses = {}
@@ -45,9 +45,9 @@ def main():
     parser.add_argument('--mixer', '-m', action='append',
                         help='Mixer ingredient to search recipes for. Can be passed multiple times.')
     args = parser.parse_args()
-    alcohol = {} if args.alcohol is None else args.alcohol
-    garnish = {} if args.garnish is None else args.garnish
-    mixer = {} if args.mixer is None else args.mixer
+    alcohol = [] if args.alcohol is None else args.alcohol
+    garnish = [] if args.garnish is None else args.garnish
+    mixer = [] if args.mixer is None else args.mixer
     ingredients = {"alcohol": alcohol, "garnish": garnish, "mixer": mixer }
     allowed_missing = {"alcohol": args.missing_alcohol,
                        "garnish": args.missing_garnish,
